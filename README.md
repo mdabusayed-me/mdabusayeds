@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Sayed</h1>
-<h3 align="center">I am a Network Engineer</h3>
+<h3 align="center">I am a Network Engineer and also Network Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabusayed-ints&label=Profile%20views&color=0e75b6&style=flat" alt="mdabusayed-ints" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abusaye15085534" target="blank"><img src="https://img.shields.io/twitter/follow/abusaye15085534?logo=twitter&style=for-the-badge" alt="abusaye15085534" /></a> </p>
 
-- 🔭 I’m currently working on [SUSt](https://www.sust.edu/)
+- 🔭 I’m currently working on [SUST](https://www.sust.edu/)
 
 - 🌱 I’m currently learning **Networking and Network Automation and Python**
 

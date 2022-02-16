@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Sayed</h1>
 <h3 align="center">I am a Network Engineer and also Network Automation Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabusayed-ints&label=Profile%20views&color=0e75b6&style=flat" alt="mdabusayed-ints" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabusayeds&label=Profile%20views&color=0e75b6&style=flat" alt="mdabusayeds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdabusayed-ints" alt="mdabusayed-ints" /></a> </p>
 

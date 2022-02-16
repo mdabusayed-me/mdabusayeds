@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Networking and Network Automation and Python**
 
-- 👯 I’m looking to collaborate on [INTS](https://www.facebook.com/pg/ints.net/)
+- 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/mdabu-sayed/)
 
-- 🤝 I’m looking for help with [facebook](https://www.facebook.com/pg)
+- 🤝 I’m looking for help with [facebook](https://www.facebook.com/md.abusayedsfb/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/company/70549922/](https://www.linkedin.com/company/70549922/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **asayed106@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mdabu-sayed](www.linkedin.com/in/mdabu-sayed)
+- 📄 Know about my experiences [MORE](www.linkedin.com/in/mdabu-sayed)
 
 - ⚡ Fun fact **i am so funny**
 

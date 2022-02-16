@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [facebook](https://www.facebook.com/md.abusayedsfb/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/company/70549922/](https://www.linkedin.com/company/70549922/)
+- 👨‍💻 All of my projects are available at [SEE MORE](http://intsbd.com/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/company/70549922/](https://www.linkedin.com/company/70549922/)
+- 📝 I regularly write articles on [SEE MORE](http://intsbd.com/)
 
 - 💬 Ask me about **if you went to know anything**
 
